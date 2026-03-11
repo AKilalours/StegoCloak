@@ -222,9 +222,12 @@ end-to-end pipeline tests.
 
 ---
 ## Over all working
-[!cover] [overall working.png]
+<p align="center">
+  <img src="overall working.png" alt="Over all working" width="400">
+</p>
 
 ---
+
 ## License
 
 MIT License — Copyright (c) 2026 **Akila Lourdes Miriyala Francis**
