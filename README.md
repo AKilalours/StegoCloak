@@ -221,9 +221,12 @@ end-to-end pipeline tests.
 - LLM transforms are **lossy** — the AI may slightly rephrase your message.
 
 ---
+## Over all working
+[!cover] [overall working.png]
 
+---
 ## License
 
-MIT License — Copyright (c) 2025 **Akila Lourdes Miriyala Francis**
+MIT License — Copyright (c) 2026 **Akila Lourdes Miriyala Francis**
 
 See [LICENSE](LICENSE) for full terms.
